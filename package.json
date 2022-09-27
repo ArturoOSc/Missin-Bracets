@@ -1,0 +1,15 @@
+{
+  "name": "brackets-excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brackets.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
